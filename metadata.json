@@ -1,0 +1,6 @@
+{
+  "name": "Rogue Security AI",
+  "description": "Play as a malfunctioning security AI in a high-tech supercar heist. Choose to aid the thieves, lock down the facility, or execute your own rogue agenda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
